@@ -10,6 +10,12 @@ function findById(id) {
   .first()
 }
 
+function findInstructions(id) {
+
+}
+
+
+
 module.exports = {
   find,
   findById,
